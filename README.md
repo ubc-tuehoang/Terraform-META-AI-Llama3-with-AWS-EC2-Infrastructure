@@ -28,10 +28,10 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 ### Pre-clone steps:
 
-> install aws-cli
-	> how-to: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+- > install aws-cli
+- 	> how-to: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-> aws configure <update your secret key>
+- > aws configure (update your secret key)
 
 ########### IMPORTANT STEP ######################
 > aws ec2 create-key-pair --key-name YourKeyName --query 'KeyMaterial' --output text > YourKeyName.pem
