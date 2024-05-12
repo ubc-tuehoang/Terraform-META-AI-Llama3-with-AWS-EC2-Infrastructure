@@ -33,9 +33,8 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 - > aws configure (update your secret key)
 
-########### IMPORTANT STEP ######################
+########### IMPORTANT STEP ################
 > aws ec2 create-key-pair --key-name YourKeyName --query 'KeyMaterial' --output text > YourKeyName.pem
-########### Generate your PEM for key_name ######
 
 > install terraform 
 	> how-to: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
