@@ -20,10 +20,13 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 2. Contextual Understanding: Keeping track of previous conversations allows the chatbot to better understand the context of current queries, leading to more accurate and relevant responses.
 3. Seamless Continuity: Users can pick up where they left off in previous conversations, ensuring a seamless and continuous dialogue with the chatbot, even across multiple sessions.
 
+<img width="1334" alt="image" src="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/1a938c04-9467-437b-af6c-792d98acc125">
 
-##<ins>How-to terraforming Meta AI:</ins>
 
-Pre-clone steps:
+
+## <ins>How-to terraforming Meta AI:</ins>
+
+### Pre-clone steps:
 
 > install aws-cli
 	> how-to: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
@@ -62,10 +65,5 @@ Access to the OLLMA/LLMA3 platform:
 Run META AI Llama3:
 
 > ollama run llama3
-
-
-
-<img width="1334" alt="image" src="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/1a938c04-9467-437b-af6c-792d98acc125">
-
 
 
