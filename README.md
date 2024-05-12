@@ -43,11 +43,10 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 ### Cloning Steps:
 
-> git clone https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure.git
-> cd terraform
+- > git clone https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure.git
+- > cd terraform
 
-> (edit tf file, if needed)
-> 
+- > (edit tf file, if needed)
 
 - > terraform init
 - > terraform validate
@@ -57,14 +56,14 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 
 ### Access to the OLLMA/LLMA3 platform:
-> check for "public dns", ex. ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
-> how-to ssh to the pulic dns: >ssh -i "YourKeyName.pem" ubuntu@ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
+- > check for "public dns", ex. ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
+- 	> how-to ssh to the pulic dns: >ssh -i "YourKeyName.pem" ubuntu@ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
 
 ### Run META AI Llama3:
 
-> ollama run llama3
+- > ollama run llama3
 
 ### Finally clean up
 
 (option to destroy)
-> terraform destroy
+- > terraform destroy
