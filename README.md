@@ -41,7 +41,7 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 	> how-to: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 
-Cloning Steps:
+### Cloning Steps:
 
 > git clone
 > cd terraform
@@ -55,15 +55,16 @@ Cloning Steps:
 > terraform apply
 	> remember to type 'yes'
 
-(option to destroy)
-> terraform destroy
 
-Access to the OLLMA/LLMA3 platform:
+### Access to the OLLMA/LLMA3 platform:
 > check for "public dns", ex. ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
 > how-to ssh to the pulic dns: >ssh -i "YourKeyName.pem" ubuntu@ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
 
-Run META AI Llama3:
+### Run META AI Llama3:
 
 > ollama run llama3
 
+### Finally clean up
 
+(option to destroy)
+> terraform destroy
