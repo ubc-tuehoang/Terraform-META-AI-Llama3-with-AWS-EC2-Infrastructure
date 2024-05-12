@@ -25,6 +25,4 @@ _Example 2: As the AI game master, you weave an enthralling narrative set agains
 <img width="1334" alt="image" src="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/1a938c04-9467-437b-af6c-792d98acc125">
 
 
-![image](https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/b58f5fe0-6f31-49e0-97ed-9c20bd93203d)
-
 
