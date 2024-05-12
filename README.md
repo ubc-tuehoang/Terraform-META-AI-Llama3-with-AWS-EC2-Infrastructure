@@ -43,10 +43,10 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 ### Cloning Steps:
 
-> git clone
+> git clone https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure.git
 > cd terraform
 
-> (edit tf if needed)
+> (edit tf file, if needed)
 > 
 
 > terraform init
