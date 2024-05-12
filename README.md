@@ -12,9 +12,9 @@ This Terraform script streamlines the process of launching an EC2 instance with 
 
 Embracing unique LLMs for each user offers a gateway to personalized conversations with GenAI, fostering individualized experiences that seamlessly weave together diverse narrative threads.
 
-_Example 1: In this unique adventure, you, the AI wizard, guide me as your apprentice through the mystical realms of our fantasy world. As we journey, echoes of King Arthur's legendary tale intertwine with our own, unveiling secrets of magic and valor._  
+_Prompt example 1: In this unique adventure, you, the AI wizard, guide me as your apprentice through the mystical realms of our fantasy world. As we journey, echoes of King Arthur's legendary tale intertwine with our own, unveiling secrets of magic and valor._  
 
-_Example 2: As the AI game master, you weave an enthralling narrative set against the enigmatic ambiance of the 1950s—a period steeped in secrecy and fascination. In this immersive murder mystery, participants are whisked away to a vintage era of fedoras and seductive femmes fatales, where each lurking shadow harbors a clandestine truth and every hushed exchange unveils a vital clue._ 
+_Prompt example 2: As the AI game master, you weave an enthralling narrative set against the enigmatic ambiance of the 1950s—a period steeped in secrecy and fascination. In this immersive murder mystery, participants are whisked away to a vintage era of fedoras and seductive femmes fatales, where each lurking shadow harbors a clandestine truth and every hushed exchange unveils a vital clue._ 
 
 ## <ins>Advantages of maintaining unique conversion history with a GenAI:</ins>
 1. Personalization: By retaining the conversation history, the chatbot can tailor responses and recommendations based on past interactions, providing a more personalized experience for users.
