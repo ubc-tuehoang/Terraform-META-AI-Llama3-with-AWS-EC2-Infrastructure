@@ -49,11 +49,11 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 > (edit tf file, if needed)
 > 
 
-> terraform init
-> terraform validate
-> terraform plan
-> terraform apply
-	> remember to type 'yes'
+- > terraform init
+- > terraform validate
+- > terraform plan
+- > terraform apply
+- 	> remember to type 'yes'
 
 
 ### Access to the OLLMA/LLMA3 platform:
