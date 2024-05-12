@@ -66,3 +66,6 @@ _Prompt example 2: As the AI game master, you weave an enthralling narrative set
 
 (option to destroy)
 - > terraform destroy
+
+![image](https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/e4208587-7699-4dcf-92f9-4454ac9e64e6)
+
