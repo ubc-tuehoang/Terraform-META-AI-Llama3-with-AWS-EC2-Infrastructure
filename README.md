@@ -22,4 +22,5 @@ _Example 2: As the AI game master, you weave an enthralling narrative set agains
 3. Seamless Continuity: Users can pick up where they left off in previous conversations, ensuring a seamless and continuous dialogue with the chatbot, even across multiple sessions.
 
 
+<img width="876" alt="image" src="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure/assets/86985864/8a7b0df0-01dc-4e6e-8478-827f7eca40f7">
 
